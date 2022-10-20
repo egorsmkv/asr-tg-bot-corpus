@@ -11,4 +11,6 @@ This repository contains the corpus of human recordings they made using a Telegr
 
 ## Download
 
-From Dropbox - https://www.dropbox.com/s/0l4eivs8gc38w3o/corpus_tg_bot_v1.0.zip?dl=0 (~380 MB)
+License: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.uk)
+
+- From Dropbox - https://www.dropbox.com/s/0l4eivs8gc38w3o/corpus_tg_bot_v1.0.zip?dl=0 (~380 MB)

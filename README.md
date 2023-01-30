@@ -6,12 +6,12 @@ This repository contains the corpus of human recordings they made using a Telegr
 
 ## The corpus
 
-- Rows: 9873
-- Speakers: 271
-- Duration: 10.67 hours
+- Rows: 11211
+- Speakers: 295
+- Duration: 12.35 hours
 
 ## Download
 
 License: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.uk)
 
-- From Dropbox - https://www.dropbox.com/s/0l4eivs8gc38w3o/corpus_tg_bot_v1.0.zip?dl=0 (~380 MB)
+- From Dropbox - https://www.dropbox.com/s/s9k0rkxu6iwpi6i/corpus_tg_bot_v1.1.zip?dl=0 (~502 MB)

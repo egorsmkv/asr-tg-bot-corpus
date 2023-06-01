@@ -6,9 +6,9 @@ This repository contains the corpus of human recordings they made using a Telegr
 
 ## The corpus
 
-- Rows: 11211
-- Speakers: 295
-- Duration: 12.35 hours
+- Rows: 12189
+- Speakers: 303
+- Duration: 13.42 hours
 
 ## Download
 
